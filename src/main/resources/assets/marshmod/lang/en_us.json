@@ -1,0 +1,31 @@
+{
+  "itemGroup.marshmod": "Example Mod Tab",
+  "block.marshmod.example_block": "Example Block",
+  "item.marshmod.example_item": "Example Item",
+
+
+  "item.marshmod.tr3es_disc": "Tr3es Music Disc",
+  "item.marshmod.tr3es_disc.desc": "brushleaf - tr3es",
+
+  "item.marshmod.escape_disc": "Escape Music Disc",
+  "item.marshmod.escape_disc.desc": "brushleaf - escape",
+
+  "item.marshmod.mirror": "Rose Gold Mirror",
+  "item.marshmod.ambrosia": "Ambrosia Flask",
+  "item.marshmod.raw_rose_gold": "Raw Rose Gold",
+  "item.marshmod.rose_gold_ingot": "Rose Gold Ingot",
+
+  "block.marshmod.rose_gold_block": "Block of Rose Gold",
+  "block.marshmod.raw_rose_gold_block": "Block of Raw Rose Gold",
+
+  "item.marshmod.rose_gold_sword": "Rose Gold Sword",
+  "item.marshmod.rose_gold_pickaxe": "Rose Gold Pickaxe",
+  "item.marshmod.rose_gold_axe": "Rose Gold Axe",
+  "item.marshmod.rose_gold_shovel": "Rose Gold Shovel",
+  "item.marshmod.rose_gold_hoe": "Rose Gold Hoe",
+
+  "item.marshmod.rose_gold_helmet": "Rose Gold Crown",
+  "item.marshmod.rose_gold_chestplate": "Rose Gold Chestplate",
+  "item.marshmod.rose_gold_leggings": "Rose Gold Leggings",
+  "item.marshmod.rose_gold_boots": "Rose Gold Boots"
+}

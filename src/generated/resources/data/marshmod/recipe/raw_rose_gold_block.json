@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "marshmod:raw_rose_gold"
+    },
+    {
+      "item": "marshmod:raw_rose_gold"
+    },
+    {
+      "item": "marshmod:raw_rose_gold"
+    },
+    {
+      "item": "marshmod:raw_rose_gold"
+    },
+    {
+      "item": "marshmod:raw_rose_gold"
+    },
+    {
+      "item": "marshmod:raw_rose_gold"
+    },
+    {
+      "item": "marshmod:raw_rose_gold"
+    },
+    {
+      "item": "marshmod:raw_rose_gold"
+    },
+    {
+      "item": "marshmod:raw_rose_gold"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "marshmod:raw_rose_gold_block"
+  }
+}

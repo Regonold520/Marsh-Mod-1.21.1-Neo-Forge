@@ -1,0 +1,7 @@
+// 1.21.1	2025-05-20T01:06:20.1000021	Tags for minecraft:item mod id marshmod
+3a166b9b2ca77dfceed3415ca84ee5b090d39660 data/minecraft/tags/item/axes.json
+5597592d77027d60dca06018661113a301743985 data/minecraft/tags/item/hoes.json
+627fa26c6c6cf5b4f97cc9b03cb63690923b5d29 data/minecraft/tags/item/pickaxes.json
+9a7bcf7d8d95b710f46b684272d0a9d8cc77393a data/minecraft/tags/item/shovels.json
+3f324c7d6b42bf1a89277151e617e75ec6fbab23 data/minecraft/tags/item/swords.json
+aad3ec6d855e3ecbdec7a10e137422e79cb39517 data/minecraft/tags/item/trimmable_armor.json

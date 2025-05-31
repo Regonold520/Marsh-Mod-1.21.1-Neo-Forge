@@ -1,0 +1,18 @@
+{
+  "tr3es": {
+    "sounds": [
+      {
+        "name": "marshmod:tr3es",
+        "stream": true
+      }
+    ]
+  },
+  "escape": {
+    "sounds": [
+      {
+        "name": "marshmod:escape",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "net.marshmod.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "TestMixin"
+  ],
+  "client": [
+    "TestMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.marshmod.tr3es_disc.desc"
+  },
+  "length_in_seconds": 109.0,
+  "sound_event": "marshmod:tr3es"
+}

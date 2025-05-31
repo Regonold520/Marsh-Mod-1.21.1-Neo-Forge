@@ -1,0 +1,4 @@
+// 1.21.1	2025-05-19T23:51:30.8187453	Tags for minecraft:block mod id marshmod
+130b9edaeb56b157d45717ee1d25efa30e4668bc data/marshmod/tags/block/incorrect_for_rose_gold_tool.json
+32b13946c4cd1f944b029659ccce5fcb2adad4ff data/marshmod/tags/block/needs_rose_gold_tool.json
+e666bbd2c38cd892e59bd24683b5676dc2b4d4d6 data/minecraft/tags/block/mineable/pickaxe.json
